@@ -13,4 +13,6 @@ function subtract(Number) {
 	return Number;
 }
 
-var newNumber = add(muliply(subtract(6)));
+var newNumber = add(muliply(subtract(6)));{
+	console.log(newNumber)
+	}
